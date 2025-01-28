@@ -1,3 +1,55 @@
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="width: 20%; text-align: left;"> </th>
+      <th style="width: 20%; text-align: left;">🏠 Project Hub</th>
+      <th style="width: 20%; text-align: left;">📦 Python Library</th>
+      <th style="width: 20%; text-align: left;">💻 Desktop Application</th>
+      <th style="width: 20%; text-align: left;">🌐 Main Web Page</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>![ed-dark]![ed-light]</td>
+      <td><a href="diffraction">diffraction</a></td>
+      <td><a href="diffraction-lib">diffraction-lib</a></td>
+      <td><a href="diffraction-app">diffraction-app</a></td>
+      <td><a href="diffraction-page">diffraction-page</a></td>
+    </tr>
+    <tr>
+      <td>![er-dark]![er-light]</td>
+      <td><a href="reflectometry">reflectometry</a></td>
+      <td><a href="reflectometry-lib">reflectometry-lib</a></td>
+      <td><a href="reflectometry-app">reflectometry-app</a></td>
+      <td><a href="reflectometry-page">reflectometry-page</a></td>
+    </tr>
+    <tr>
+      <td>![ei-dark]![ei-light]</td>
+      <td><a href="imaging">imaging</a></td>
+      <td><a href="imaging-lib">imaging-lib</a></td>
+      <td><a href="imaging-app">imaging-app</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>![eq-dark]![eq-light]</td>
+      <td><a href="dynamics">dynamics</a></td>
+      <td><a href="dynamics-lib">dynamics-lib</a></td>
+      <td><a href="dynamics-app">dynamics-app</a></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>![et-dark]![et-light]</td>
+      <td></td>
+      <td></td>
+      <td><a href="texture-app">texture-app</a></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+
 |                             | 🏠 Project Hub      | 📦 Python Library      | 💻 Desktop Application | 🌐 Main Web Page       |
 |-----------------------------|---------------------|------------------------|------------------------|------------------------|
 | ![ed-dark]![ed-light]       | [diffraction]       | [diffraction-lib]      | [diffraction-app]      | [diffraction-page]     |
