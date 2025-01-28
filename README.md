@@ -15,6 +15,12 @@
 
 Explore our dedicated repositories for specific techniques:
 
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
 |                             | 🏠 Project Hub      | 📦 Python Library      | 💻 Desktop Application | 🌐 Main Web Page       |
 |-----------------------------|---------------------|------------------------|------------------------|------------------------|
 | ![ed-dark]![ed-light]       | [diffraction]       | [diffraction-lib]      | [diffraction-app]      | [diffraction-page]     |
