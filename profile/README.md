@@ -1,20 +1,3 @@
-<p align='left'>
-  <picture>
-    <!-- light mode logo -->
-    <source media='(prefers-color-scheme: light)' srcset='https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyScience/logos/es-logo_light.svg'>
-    <!-- dark mode logo -->
-    <source media='(prefers-color-scheme: dark)' srcset='https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyScience/logos/es-logo_dark.svg'>
-    <!-- default logo == light mode logo -->
-    <img src='https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyScience/logos/es-logo_light.svg' alt='EasyCrystallography'>
-  </picture>
-</p>
-
-**EasyScience** is a versatile data analysis framework designed to streamline the journey from data collection to publication. It provides:
-- **Powerful back-end tools**: Core functionality through Python libraries.
-- **Efficient front-end modules**: QML components for developing desktop applications with ease.
-
-Explore our dedicated repositories for specific techniques:
-
 |                             | 🏠 Project Hub      | 📦 Python Library      | 💻 Desktop Application | 🌐 Main Web Page       |
 |-----------------------------|---------------------|------------------------|------------------------|------------------------|
 | ![ed-dark]![ed-light]       | [diffraction]       | [diffraction-lib]      | [diffraction-app]      | [diffraction-page]     |
@@ -77,41 +60,6 @@ Explore our dedicated repositories for specific techniques:
 | [deps-cryspy]    | Custom version of the CrysPy library         |
 | [deps-pycrysfml] | Python bindings for the CrysFML2008 library  |
 | [deps-pdffit2]   | Custom version of the diffpy.pdffit2 library |
-
-
-## Repositories to be Merged
-
-Add the prefix `to_be_merged__` to repositories that will be integrated into others:
-
-- [EasyDiffractionLibDocs](https://github.com/EasyScience/EasyDiffractionLibDocs): Will be merged into the `docs/` directory of [EasyDiffractionLib](https://github.com/EasyScience/EasyDiffractionLib).
-- [EasyDiffractionAppDocs](https://github.com/EasyScience/EasyDiffractionAppDocs): Will be merged into the `docs/` directory of [EasyDiffractionApp](https://github.com/EasyScience/EasyDiffractionApp).
-
-## Repositories to be Checked
-
-Add the prefix `to_be_checked__` to repositories under review:
-
-- [easyAppWww](https://github.com/EasyScience/easyAppWww)
-- [easyCoreWww](https://github.com/EasyScience/easyCoreWww)
-- [easyExampleLib](https://github.com/EasyScience/easyExampleLib)
-- [easySkeletonApp](https://github.com/EasyScience/easySkeletonApp)
-- [easyTemplateLib](https://github.com/EasyScience/easyTemplateLib)
-
-## Repositories to be Removed
-
-Add the prefix `to_be_removed__` to repositories slated for removal:
-
-- [demo-repository](https://github.com/EasyScience/demo-repository)
-- [diffpy.structure](https://github.com/EasyScience/diffpy.structure)
-- [easyAppGui](https://github.com/EasyScience/easyAppGui)
-- [easyAppLogic](https://github.com/EasyScience/easyAppLogic)
-- [libsDarwin](https://github.com/EasyScience/libsDarwin)
-- [libsLinux](https://github.com/EasyScience/libsLinux)
-- [libsWin32](https://github.com/EasyScience/libsWin32)
-- [matplotlib_backend_qtquick](https://github.com/EasyScience/matplotlib_backend_qtquick)
-- [pycrysfml08](https://github.com/EasyScience/pycrysfml08)
-- [EasyScience_old](https://github.com/EasyScience/EasyScience_old)
-- [test_conditional](https://github.com/EasyScience/test_conditional)
-
 
 <!---URLs--->
 
