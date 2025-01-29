@@ -1,55 +1,3 @@
-<table style="width: 100%; border-collapse: collapse;">
-  <thead>
-    <tr>
-      <th style="width: 20%; text-align: left;"> </th>
-      <th style="width: 20%; text-align: left;">🏠 Project Hub</th>
-      <th style="width: 20%; text-align: left;">📦 Python Library</th>
-      <th style="width: 20%; text-align: left;">💻 Desktop Application</th>
-      <th style="width: 20%; text-align: left;">🌐 Main Web Page</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>![ed-dark]![ed-light]</td>
-      <td><a href="diffraction">diffraction</a></td>
-      <td><a href="diffraction-lib">diffraction-lib</a></td>
-      <td><a href="diffraction-app">diffraction-app</a></td>
-      <td><a href="diffraction-page">diffraction-page</a></td>
-    </tr>
-    <tr>
-      <td>![er-dark]![er-light]</td>
-      <td><a href="reflectometry">reflectometry</a></td>
-      <td><a href="reflectometry-lib">reflectometry-lib</a></td>
-      <td><a href="reflectometry-app">reflectometry-app</a></td>
-      <td><a href="reflectometry-page">reflectometry-page</a></td>
-    </tr>
-    <tr>
-      <td>![ei-dark]![ei-light]</td>
-      <td><a href="imaging">imaging</a></td>
-      <td><a href="imaging-lib">imaging-lib</a></td>
-      <td><a href="imaging-app">imaging-app</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>![eq-dark]![eq-light]</td>
-      <td><a href="dynamics">dynamics</a></td>
-      <td><a href="dynamics-lib">dynamics-lib</a></td>
-      <td><a href="dynamics-app">dynamics-app</a></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>![et-dark]![et-light]</td>
-      <td></td>
-      <td></td>
-      <td><a href="texture-app">texture-app</a></td>
-      <td></td>
-    </tr>
-  </tbody>
-</table>
-
-
-
-
 |                             | 🏠 Project Hub      | 📦 Python Library      | 💻 Desktop Application | 🌐 Main Web Page       |
 |-----------------------------|---------------------|------------------------|------------------------|------------------------|
 | ![ed-dark]![ed-light]       | [diffraction]       | [diffraction-lib]      | [diffraction-app]      | [diffraction-page]     |
@@ -57,6 +5,7 @@
 | ![ei-dark]![ei-light]       | [imaging]           | [imaging-lib]          | [imaging-app]          |                        |
 | ![eq-dark]![eq-light]       | [dynamics]          | [dynamics-lib]         | [dynamics-app]         |                        |
 | ![et-dark]![et-light]       |                     |                        | [texture-app]          |                        |
+| ![esh-dark]![esh-light]     |                     |                        | [shapes-app]           |                        |
 
 ## Full List of Repositories
 
@@ -115,21 +64,18 @@
 
 <!---URLs--->
 
-[ed-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyDiffraction/logos/ed-logo_102x32_dark.svg#gh-dark-mode-only
-[ed-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyDiffraction/logos/ed-logo_102x32_light.svg#gh-light-mode-only
-[er-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyReflectometry/logos/er-logo_120x32_dark.svg#gh-dark-mode-only
-[er-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyReflectometry/logos/er-logo_120x32_light.svg#gh-light-mode-only
-[ei-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyImaging/logos/ei-logo_84x32_dark.svg#gh-dark-mode-only
-[ei-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyImaging/logos/ei-logo_84x32_light.svg#gh-light-mode-only
-[eq-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyDynamics/logos/eq-logo_93x32_dark.svg#gh-dark-mode-only
-[eq-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyDynamics/logos/eq-logo_93x32_light.svg#gh-light-mode-only
-[esh-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyShapes/logos/esh-logo_79x32_dark.svg#gh-dark-mode-only
-[esh-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyShapes/logos/esh-logo_79x32_light.svg#gh-light-mode-only
-[esh-2-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyShapes/logos/esh-logo-2_79x32_dark.svg#gh-dark-mode-only
-[esh-2-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyShapes/logos/esh-logo-2_79x32_light.svg#gh-light-mode-only
-[et-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyTexture/logos/et-logo_80x32_dark.svg#gh-dark-mode-only
-[et-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyTexture/logos/et-logo_80x32_light.svg#gh-light-mode-only
-
+[ed-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyDiffraction/logos/ed-logo_152x48_dark.svg#gh-dark-mode-only
+[ed-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyDiffraction/logos/ed-logo_152x48_light.svg#gh-light-mode-only
+[er-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyReflectometry/logos/er-logo_180x48_dark.svg#gh-dark-mode-only
+[er-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyReflectometry/logos/er-logo_180x48_light.svg#gh-light-mode-only
+[ei-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyImaging/logos/ei-logo_126x48_dark.svg#gh-dark-mode-only
+[ei-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyImaging/logos/ei-logo_126x48_light.svg#gh-light-mode-only
+[eq-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyDynamics/logos/eq-logo_140x48_dark.svg#gh-dark-mode-only
+[eq-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyDynamics/logos/eq-logo_140x48_light.svg#gh-light-mode-only
+[esh-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyShapes/logos/esh-logo_118x48_dark.svg#gh-dark-mode-only
+[esh-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyShapes/logos/esh-logo_118x48_light.svg#gh-light-mode-only
+[et-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyTexture/logos/et-logo_120x48_dark.svg#gh-dark-mode-only
+[et-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyTexture/logos/et-logo_120x48_light.svg#gh-light-mode-only
 [es-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyScience/logos/es-logo_81x32_dark.svg#gh-dark-mode-only
 [es-light]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyScience/logos/es-logo_81x32_light.svg#gh-light-mode-only
 [esco-dark]: https://raw.githubusercontent.com/EasyScience/BrandingResources/refs/heads/master/EasyDiffraction/logos/ed-logo_102x32_dark.svg#gh-dark-mode-only
